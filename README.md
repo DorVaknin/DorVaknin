@@ -1,4 +1,5 @@
 Hi there, I'm Dor Vaknin 👋
+
 🔭 I’m currently working on: Enhancing backend systems using NodeJS, Typescript, Kubernetes, and MongoDB. My focus is on creating scalable microservices and efficient database integrations.
 
 🌱 I’m currently learning: Advanced techniques in cloud architectures and continuous integration/continuous deployment (CI/CD) processes to further optimize backend development.
