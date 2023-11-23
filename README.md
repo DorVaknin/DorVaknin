@@ -6,8 +6,8 @@ Hi there, I'm Dor Vaknin 👋
 
 👯 I’m looking to collaborate on: Projects involving Node.js, Kubernetes, and cloud solutions (AWS/Azure). I'm passionate about building robust backend systems and contributing to projects that require high scalability and reliability.
 
-💬 Ask me about: Designing and building microservices, especially breaking down monolithic codebases for seamless ERP integrations. Feel free to ask about domain-driven design (DDD), CQRS, and Event Sourcing, particularly in onboarding systems.
+💬 Ask me about: Designing and building microservices, especially breaking down monolithic codebases for seamless integrations. Feel free to ask about domain-driven design (DDD), CQRS, and Event Sourcing.
 
 📫 How to reach me: Drop me an email at dor.vkn@gmail.com or connect with me on LinkedIn.
 
-⚡ Fun fact: I won 1st place at HackIDC, the biggest student-led Hackathon in Israel. I enjoy solving complex problems and bringing innovative ideas to life.
+⚡ Fun fact: I won 1st place at HackIDC, the biggest student-led Hackathon in Israel.
