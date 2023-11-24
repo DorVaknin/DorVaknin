@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dor Vaknin</h1>
+<h1 align="center">Hi 👋, <br> I'm Dor Vaknin</h1>
 <h3 align="center">A passionate Backend developer from Israel</h3>
 
 - 🔭 I’m currently working on [Crypto Historical Data bot](https://github.com/DorVaknin/CryptoDataBot)
