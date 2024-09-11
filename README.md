@@ -44,6 +44,4 @@ Feel free to ask about domain-driven design (DDD), CQRS, and Event Sourcing.**
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-  <a href="https://langsmith.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/langsmith/langsmith-icon.svg" alt="langsmith" width="40" height="40"/> </a>
-  <a href="https://pinecone.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pinecone/pinecone-icon.svg" alt="pinecone" width="40" height="40"/> </a>
 </p>
