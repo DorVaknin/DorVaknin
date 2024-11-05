@@ -12,7 +12,7 @@ I'm passionate about building robust backend systems and contributing to project
 Feel free to ask about domain-driven design (DDD), CQRS, and Event Sourcing.**
 
 ### 🔧 Key Projects
-- **Led backend development using TypeScript, GCP, LLMs, Langsmith, and MongoDB**  
+- **Led backend development using TypeScript, GCP, LLMs, Langchain, and MongoDB**  
   Designed and developed a chat application integrating Large Language Models (LLM) to optimize participant skill selection.
 
 - **Implemented a Retrieval-Augmented Generation (RAG) Project**  
