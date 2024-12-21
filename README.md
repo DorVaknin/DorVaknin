@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, <br> I'm Dor Vaknin</h1>
-<h3 align="center">A passionate AI Developer from Israel</h3>
+<h3 align="center">A passionate AI Engineer from Israel</h3>
 
 - 🔭 I’m currently working on **AI Error Analyzer** and **Skill Precision AI-based chat**
 
